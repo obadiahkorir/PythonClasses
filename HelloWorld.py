@@ -1,0 +1,5 @@
+print("Hello Obadiah Korir")
+print("This is the beginning of the Journey \n")
+print("This is the python year  \n")
+print ("Welcome to", end = ' ')
+print ("Do you love coding with python", end = '!')
